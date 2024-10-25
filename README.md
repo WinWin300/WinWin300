@@ -15,7 +15,7 @@
 <h2>Computer Networking Projects</h2>
 
 - <b>Simple Office Network</b>
-  [Simple Office Network)](https://github.com/WinWin300/Simple-Office-Network/blob/main/README.md)
+  [Simple Office Network](https://github.com/WinWin300/Simple-Office-Network/blob/main/README.md)
 
 <h2> 🤳 Connect with me:</h2>
 
