@@ -1,6 +1,6 @@
 <h1>Hi, I'm Christine! <br/><a href="https://github.com/WinWin300">Cybersecurity Proffesional</a></a></h1>
 
-<h2>👨‍💻 Software Development Projects:</h2>
+<h2>👨‍💻 Certifications:</h2>
 
   - [Cisco Ethical Hacker](https://www.credly.com/badges/9c5e0956-5e19-4f1f-82e3-49f150356f1a/public_url)
 
