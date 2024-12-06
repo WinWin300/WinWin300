@@ -9,13 +9,15 @@
   
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
+- <b>Python</b>
+  - [Network Traffic Analyzer](https://github.com/WinWin300/Network-Traffic-Analyzer)
 
 <h2>Computer Networking Projects</h2>
+
+- <b>Simple Office Network</b>
+  - [Simple Office Network](https://github.com/WinWin300/Simple-Office-Network/blob/main/README.md)
+  
+<h2>Powershell</h2>
 
 - <b>Simple Office Network</b>
   [Simple Office Network](https://github.com/WinWin300/Simple-Office-Network/blob/main/README.md)
